@@ -1,5 +1,4 @@
-# milenagrncarova
-My personal repository
+
 <h1 align="center">Hi 👋, I'm Milena Grncarova</h1>
 <h3 align="center">Web Developer</h3>
 
